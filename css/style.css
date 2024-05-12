@@ -1,3 +1,7 @@
+body{
+	margin:0;
+	padding:0;
+}
 /*Header start*/
 header{
 	border-bottom: 3px solid #eef0f3;
